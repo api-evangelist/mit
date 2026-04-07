@@ -1,6 +1,7 @@
 aid: mit
 name: MIT
-description: "Check out the Roles API today\_and start using it fast in a few simple steps! "
+description: >-
+  Check out the Roles API today and start using it fast in a few simple steps!
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -9,12 +10,14 @@ tags:
   - API
 created: '2025-02-08'
 modified: '2026-03-16'
-url: https://raw.githubusercontent.com/api-evangelist/mit/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/mit/refs/heads/main/apis.yml
 specificationVersion: '0.19'
 apis:
   - aid: mit:mit
     name: MIT
-    description: "Check out the Roles API today\_and start using it fast in a few simple steps! "
+    description: >-
+      Check out the Roles API today and start using it fast in a few simple steps!
     humanURL: ' https://developers-dev.mit.edu/'
     tags:
       - API
