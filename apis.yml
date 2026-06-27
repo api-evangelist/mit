@@ -41,7 +41,7 @@ apis:
     properties:
       - type: Documentation
         url: https://developers-dev.mit.edu/
-      - type: SignUp
+      - type: Signup
         url: https://developers-dev.mit.edu/
 common:
   - type: Website
