@@ -44,6 +44,8 @@ apis:
       - type: Signup
         url: https://developers-dev.mit.edu/
 common:
+  - type: DomainSecurity
+    url: security/mit-domain-security.yml
   - type: Website
     url: https://www.mit.edu/
   - type: DeveloperPortal
